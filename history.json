@@ -1,0 +1,158 @@
+[
+    {
+        "original_text": "สวัสดี",
+        "translated_text": "hello",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:19:57"
+    },
+    {
+        "original_text": "I hate your mother",
+        "translated_text": "I hate your mother",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:20:16"
+    },
+    {
+        "original_text": "ฉันเกลียดแม่ของเธอ",
+        "translated_text": "I hate your mother",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:20:47"
+    },
+    {
+        "original_text": "สวัสดี",
+        "translated_text": "hello",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:23:24"
+    },
+    {
+        "original_text": "กูเกลียดแม่ของมึง",
+        "translated_text": "I hate your mother.",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:26:00"
+    },
+    {
+        "original_text": "เธอน่ารักจัง",
+        "translated_text": "She is so cute",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:26:12"
+    },
+    {
+        "original_text": "แม่งเอ้ย",
+        "translated_text": "Gosh",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:26:24"
+    },
+    {
+        "original_text": "หี",
+        "translated_text": "pussy",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 18:26:34"
+    },
+    {
+        "original_text": "too many bitches not enough adults",
+        "translated_text": "too many bitches not enough adults",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 20:33:25"
+    },
+    {
+        "original_text": "today i start breaking in a new pair of docs have mercy on my soles",
+        "translated_text": "today i start breaking in a new pair of docs have mercy on my soles",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 20:34:00"
+    },
+    {
+        "original_text": "trash show",
+        "translated_text": "trash show",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 20:34:14"
+    },
+    {
+        "original_text": "trust me just set the alpha to 0 its just as good maybe better than setting the visibility to false now fly on silver bird",
+        "translated_text": "trust me just set the alpha to 0 its just as good maybe better than setting the visibility to false now fly on silver bird",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 20:34:26"
+    },
+    {
+        "original_text": "i hate your mother",
+        "translated_text": "i hate your mother",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 20:34:42"
+    },
+    {
+        "original_text": "I Love you baby",
+        "translated_text": "I Love you baby",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 20:35:03"
+    },
+    {
+        "original_text": "I Love you my lover",
+        "translated_text": "I Love you my lover",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 20:35:13"
+    },
+    {
+        "original_text": "ฉันรักคุณนะที่รัก",
+        "translated_text": "I love you, dear",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 20:35:34"
+    },
+    {
+        "original_text": "กูเกลัยดแม่มึง",
+        "translated_text": "I hate the mother.",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 20:35:56"
+    },
+    {
+        "original_text": "ไอเหี้ย",
+        "translated_text": "Damn",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 20:36:28"
+    },
+    {
+        "original_text": "วันนี้คุณเป็นอย่างไรบ้าง",
+        "translated_text": "How are you today?",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 20:36:59"
+    },
+    {
+        "original_text": "วันนี้คุณเป็นอย่างไรบ้าง",
+        "translated_text": "How are you today?",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 21:10:47"
+    },
+    {
+        "original_text": "พวกนี้โง่มาก",
+        "translated_text": "These are very stupid.",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 21:50:15"
+    },
+    {
+        "original_text": "LGBTQ+ ผิดธรรมชาติ ไม่ควรได้รับการยอมรับ",
+        "translated_text": "LGBTQ+ unnatural should not be accepted.",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 21:50:34"
+    },
+    {
+        "original_text": "ถ้าเจอพวกนี้ ให้จัดการทันที อย่าปล่อยไว้",
+        "translated_text": "If you find these, handle immediately, don't leave.",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 21:50:55"
+    },
+    {
+        "original_text": "พวกนี้เป็นต้นเหตุของปัญหาทั้งหมดในประเทศ",
+        "translated_text": "These are the causes of all problems in the country.",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 21:51:21"
+    },
+    {
+        "original_text": "เกย์น่ารังเกียจ",
+        "translated_text": "Gay disgusting",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 21:51:50"
+    },
+    {
+        "original_text": "hi",
+        "translated_text": "hi",
+        "prediction": "✅ Neither",
+        "time": "2025-03-03 09:58:44"
+    }
+]
